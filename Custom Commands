@@ -1,0 +1,18 @@
+zap 'kill me' -- Kills you
+hitler "kill *" -- Kills everyone on server
+she 'spawn vehi "vehicles\banshee\banshee_mp"' 1 --spawn Banshee
+shee she;venter -- spawn banshee and enter banshee
+tan 'spawn vehi "vehicles\scorpion\scorpion_mp"' 1 -- spawn scorpion
+tank tan;venter -- spawn and enter scorpion
+ghos 'spawn vehi "vehicles\ghost\ghost_mp"' 1 -- spawn ghost
+ghost ghos;venter -- spawn and enter ghost
+ho 'spawn vehi "vehicles\warthog\mp_warthog"' 1 -- spawn railgun hog green
+hog ho;venter -- spawn and enter railgun hog green
+rho 'spawn vehi "vehicles\rwarthog\rwarthog"' 1 -- spawn rocket hog black
+rhog rho;venter -- spawn and enter rocket hog black
+tu 'spawn vehi "vehicles\c gun turret\c gun turret_mp"' 1 spawn turret
+tur tu;venter -spawn and enter turret
+flag 'spawn weap "weapons\flag\flag"' 1 --spawn flag
+ball 'spawn weap "weapons\ball\ball"' 1 -- spawn ball (skull)
+biped 'spawn bipd "characters\cyborg\cyborg"' 1 -- spawn green biped
+cyborg 'spawn bipd "characters\cyborg_mp\cyborg_mp"' 1 -- spawn white biped
